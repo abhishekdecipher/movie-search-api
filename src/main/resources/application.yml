@@ -1,0 +1,7 @@
+server:
+  port: 8888
+
+
+api:
+  uri: http://www.omdbapi.com/?apikey=66e4ecce
+  type: movie
